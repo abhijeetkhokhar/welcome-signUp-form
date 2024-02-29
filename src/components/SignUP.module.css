@@ -1,0 +1,26 @@
+.signup{
+box-shadow: 0px 0px 10px black;
+border-radius: 10px;
+    margin: 20px;
+    width: 90%;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(197, 150, 150), rgb(229, 229, 149));
+}
+.signup h1{
+    text-align: center;
+}
+
+.signup input{
+    width: 50%;
+    margin-left: 20px;
+    height: 5vh;
+}
+.signup form{
+    margin-left: 5vw;
+}
+.signup button{
+    margin-left: 8.3vw;
+    margin-bottom: 10vh;
+    width: 10vw;
+    height: 5vh;
+}
