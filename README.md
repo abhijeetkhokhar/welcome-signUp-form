@@ -15,6 +15,8 @@
 - App.js: Main component managing the application state and rendering other components.
 - Introduction.js: Introduction component (not specified in the code provided).
 - Introduction.module.css: Contains the css which helps for the styling.
+- Parent.js: Parent component providing a wrapper for other components.
+- SignUP.js: Component for user sign-up form.
 
 # Usage
 - User Registration: Fill out the sign-up form provided.
