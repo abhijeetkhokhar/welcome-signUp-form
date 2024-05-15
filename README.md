@@ -1,4 +1,4 @@
-# React User Registration App
+# React user registration app
 
 ### Welcome to the React User Registration App, a simple application for user registration and data display.
 
